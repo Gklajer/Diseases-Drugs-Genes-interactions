@@ -1,8 +1,0 @@
-From	To	Reaction Type	Controller	Control Type	Cell Type	PMIDs	Genes	Drugs	Diseases	Summary
-acetaldehyde	acetic acid	Biochemical Reaction	ALDH2	Gene	hepatocyte	19720750				Biochemical reaction from acetaldehyde to acetic acid. This interaction is catalyzed by ALDH2.
-cocaine, ethanol	cocaethylene	Biochemical Reaction			null, hepatocyte	19720750, 7870932		cocaine, ethanol		Biochemical reaction from cocaine, ethanol to cocaethylene.
-ethanol	acetaldehyde	Biochemical Reaction			hepatocyte	19720750		ethanol		Biochemical reaction from ethanol to acetaldehyde.
-cocaine	benzoylecgonine	Biochemical Reaction	CES2	Gene	null	20649590, 7870932		cocaine		Biochemical reaction from cocaine to benzoylecgonine. This interaction is catalyzed by CES2.
-disulfiram	ALDH2	Inhibition			hepatocyte	19720750, 8392551	ALDH2	disulfiram		disulfiram inhibits ALDH2.
-cocaethylene	SLC6A3	Leads To			null, neuron	7870932	SLC6A3			cocaethylene leads to SLC6A3.
-cocaine	SLC6A3	Leads To			null, neuron	7870932	SLC6A3	cocaine		cocaine leads to SLC6A3.
