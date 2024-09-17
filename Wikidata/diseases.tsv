@@ -1,0 +1,990 @@
+Disease Ontology ID	Name	Wikidata URL
+DOID:552	pneumonia	http://www.wikidata.org/entity/Q12192
+DOID:14330	Parkinson's disease	http://www.wikidata.org/entity/Q11085
+DOID:2377	multiple sclerosis	http://www.wikidata.org/entity/Q8277
+DOID:2043	hepatitis B	http://www.wikidata.org/entity/Q6853
+DOID:8778	Crohn's disease	http://www.wikidata.org/entity/Q1472
+DOID:8577	ulcerative colitis	http://www.wikidata.org/entity/Q1477
+DOID:10459	common cold	http://www.wikidata.org/entity/Q12125
+DOID:13778	chancroid	http://www.wikidata.org/entity/Q31798
+DOID:1826	epilepsy	http://www.wikidata.org/entity/Q41571
+DOID:1612	breast cancer	http://www.wikidata.org/entity/Q128581
+DOID:8398	osteoarthritis	http://www.wikidata.org/entity/Q62736
+DOID:9074	systemic lupus erythematosus	http://www.wikidata.org/entity/Q1485
+DOID:0050211	swine influenza	http://www.wikidata.org/entity/Q36855
+DOID:11338	tetanus	http://www.wikidata.org/entity/Q47790
+DOID:2841	asthma	http://www.wikidata.org/entity/Q35869
+DOID:204	enthesopathy	http://www.wikidata.org/entity/Q52844
+DOID:7147	ankylosing spondylitis	http://www.wikidata.org/entity/Q52849
+DOID:162	cancer	http://www.wikidata.org/entity/Q12078
+DOID:1240	leukemia	http://www.wikidata.org/entity/Q29496
+DOID:1024	leprosy	http://www.wikidata.org/entity/Q36956
+DOID:1470	major depressive disorder	http://www.wikidata.org/entity/Q42844
+DOID:4166	syphilis	http://www.wikidata.org/entity/Q41083
+DOID:8469	influenza	http://www.wikidata.org/entity/Q2840
+DOID:635	HIV/AIDS	http://www.wikidata.org/entity/Q12199
+DOID:6364	migraine	http://www.wikidata.org/entity/Q133823
+DOID:437	myasthenia gravis	http://www.wikidata.org/entity/Q8285
+DOID:10763	arterial hypertension	http://www.wikidata.org/entity/Q41861
+DOID:11976	botulism	http://www.wikidata.org/entity/Q154865
+DOID:13250	diarrhea	http://www.wikidata.org/entity/Q40878
+DOID:13189	gout	http://www.wikidata.org/entity/Q133087
+DOID:5419	schizophrenia	http://www.wikidata.org/entity/Q41112
+DOID:6543	acne	http://www.wikidata.org/entity/Q79928
+DOID:0080784	urinary tract infection	http://www.wikidata.org/entity/Q221668
+DOID:13148	urinary tract infection	http://www.wikidata.org/entity/Q221668
+DOID:8596	scarlet fever	http://www.wikidata.org/entity/Q180266
+DOID:1909	melanoma	http://www.wikidata.org/entity/Q180614
+DOID:1094	attention deficit hyperactivity disorder	http://www.wikidata.org/entity/Q181923
+DOID:10371	yaws	http://www.wikidata.org/entity/Q76973
+DOID:11337	Lemierre's syndrome	http://www.wikidata.org/entity/Q72000
+DOID:0050127	sinusitis	http://www.wikidata.org/entity/Q183344
+DOID:11100	Q fever	http://www.wikidata.org/entity/Q164818
+DOID:11262	ornithosis	http://www.wikidata.org/entity/Q164727
+DOID:9600	plantar fasciitis	http://www.wikidata.org/entity/Q52851
+DOID:3312	bipolar disorder	http://www.wikidata.org/entity/Q131755
+DOID:11405	diphtheria	http://www.wikidata.org/entity/Q134649
+DOID:289	endometriosis	http://www.wikidata.org/entity/Q205764
+DOID:11476	osteoporosis	http://www.wikidata.org/entity/Q165328
+DOID:2326	gastroenteritis	http://www.wikidata.org/entity/Q156103
+DOID:10936	Schizoid personality disorder	http://www.wikidata.org/entity/Q498237
+DOID:11573	listeriosis	http://www.wikidata.org/entity/Q160653
+DOID:10457	legionnaires' disease	http://www.wikidata.org/entity/Q154882
+DOID:0060058	lymphoma	http://www.wikidata.org/entity/Q208414
+DOID:2394	ovarian cancer	http://www.wikidata.org/entity/Q172341
+DOID:750	peptic ulcer disease	http://www.wikidata.org/entity/Q172941
+DOID:6132	bronchitis	http://www.wikidata.org/entity/Q173022
+DOID:13258	typhoid fever	http://www.wikidata.org/entity/Q83319
+DOID:8893	psoriasis	http://www.wikidata.org/entity/Q179945
+DOID:0060319	cardiac arrest	http://www.wikidata.org/entity/Q202837
+DOID:3324	mood disorder	http://www.wikidata.org/entity/Q188638
+DOID:1679	cystitis	http://www.wikidata.org/entity/Q246084
+DOID:9119	acute myeloid leukemia	http://www.wikidata.org/entity/Q264118
+DOID:8457	pellagra	http://www.wikidata.org/entity/Q221441
+DOID:2089	constipation	http://www.wikidata.org/entity/Q178436
+DOID:0050782	Zollinger–Ellison syndrome	http://www.wikidata.org/entity/Q218712
+DOID:9409	diabetes insipidus	http://www.wikidata.org/entity/Q220551
+DOID:727	premenstrual syndrome	http://www.wikidata.org/entity/Q220193
+DOID:8659	chickenpox	http://www.wikidata.org/entity/Q44727
+DOID:11263	chlamydia infection	http://www.wikidata.org/entity/Q153356
+DOID:0060318	acute promyelocytic leukemia	http://www.wikidata.org/entity/Q612108
+DOID:2030	anxiety disorder	http://www.wikidata.org/entity/Q544006
+DOID:7148	rheumatoid arthritis	http://www.wikidata.org/entity/Q187255
+DOID:8534	gastroesophageal reflux disease	http://www.wikidata.org/entity/Q223591
+DOID:631	fibromyalgia	http://www.wikidata.org/entity/Q540571
+DOID:7551	gonorrhea	http://www.wikidata.org/entity/Q101896
+DOID:13725	beriberi	http://www.wikidata.org/entity/Q184084
+DOID:12858	Huntington's disease	http://www.wikidata.org/entity/Q190564
+DOID:9383	iridocyclitis	http://www.wikidata.org/entity/Q145790
+DOID:10933	obsessive-compulsive disorder	http://www.wikidata.org/entity/Q178190
+DOID:114	heart disease	http://www.wikidata.org/entity/Q190805
+DOID:13938	amenorrhea	http://www.wikidata.org/entity/Q334655
+DOID:2998	testicular cancer	http://www.wikidata.org/entity/Q324464
+DOID:13141	uveitis	http://www.wikidata.org/entity/Q280027
+DOID:1724	duodenal ulcer	http://www.wikidata.org/entity/Q355170
+DOID:594	panic disorder	http://www.wikidata.org/entity/Q741713
+DOID:2723	dermatitis	http://www.wikidata.org/entity/Q229256
+DOID:8924	autoimmune thrombocytopenic purpura	http://www.wikidata.org/entity/Q638729
+DOID:104	bacterial infectious disease	http://www.wikidata.org/entity/Q727028
+DOID:11729	Lyme disease	http://www.wikidata.org/entity/Q201989
+DOID:11265	trachoma	http://www.wikidata.org/entity/Q193216
+DOID:0050298	adenovirus infection	http://www.wikidata.org/entity/Q837054
+DOID:9778	irritable bowel syndrome	http://www.wikidata.org/entity/Q838966
+DOID:37	skin disease	http://www.wikidata.org/entity/Q949302
+DOID:10456	tonsillitis	http://www.wikidata.org/entity/Q186470
+DOID:10754	otitis media	http://www.wikidata.org/entity/Q223254
+DOID:1040	chronic lymphocytic leukemia	http://www.wikidata.org/entity/Q1088156
+DOID:11758	iron deficiency anemia	http://www.wikidata.org/entity/Q954674
+DOID:2055	post-traumatic stress disorder	http://www.wikidata.org/entity/Q202387
+DOID:0050746	mantle cell lymphoma	http://www.wikidata.org/entity/Q268713
+DOID:0060060	non-Hodgkin lymphoma	http://www.wikidata.org/entity/Q1138590
+DOID:687	hepatoblastoma	http://www.wikidata.org/entity/Q1607658
+DOID:13001	carotid artery stenosis	http://www.wikidata.org/entity/Q1576205
+DOID:8536	herpes zoster	http://www.wikidata.org/entity/Q182155
+DOID:11119	Tourette syndrome	http://www.wikidata.org/entity/Q191779
+DOID:8632	Kaposi's sarcoma	http://www.wikidata.org/entity/Q725345
+DOID:10605	short bowel syndrome	http://www.wikidata.org/entity/Q662272
+DOID:2965	bursitis	http://www.wikidata.org/entity/Q645363
+DOID:13378	Kawasaki disease	http://www.wikidata.org/entity/Q265936
+DOID:4195	hyperglycemia	http://www.wikidata.org/entity/Q271993
+DOID:10609	rickets	http://www.wikidata.org/entity/Q183392
+DOID:2112	cystoisosporiasis	http://www.wikidata.org/entity/Q428447
+DOID:1074	kidney failure	http://www.wikidata.org/entity/Q476921
+DOID:0050908	myelodysplastic syndrome	http://www.wikidata.org/entity/Q954625
+DOID:12603	acute leukemia	http://www.wikidata.org/entity/Q976388
+DOID:769	neuroblastoma	http://www.wikidata.org/entity/Q938205
+DOID:784	KKaka	http://www.wikidata.org/entity/Q736715
+DOID:1586	rheumatic fever	http://www.wikidata.org/entity/Q753904
+DOID:2671	transitional cell carcinoma	http://www.wikidata.org/entity/Q2501186
+DOID:9352	type 2 diabetes	http://www.wikidata.org/entity/Q3025883
+DOID:0050745	diffuse large B-cell lymphoma	http://www.wikidata.org/entity/Q2626074
+DOID:11759	hypochromic anemia	http://www.wikidata.org/entity/Q2306782
+DOID:2384	Wernicke encephalopathy	http://www.wikidata.org/entity/Q1573307
+DOID:3319	lymphangioleiomyomatosis	http://www.wikidata.org/entity/Q1878759
+DOID:374	nutrition disorder	http://www.wikidata.org/entity/Q1361144
+DOID:13381	pernicious anemia	http://www.wikidata.org/entity/Q1346016
+DOID:4964	neurotic disorder	http://www.wikidata.org/entity/Q19000444
+DOID:3565	meningioma	http://www.wikidata.org/entity/Q369157
+DOID:14115	toxic shock syndrome	http://www.wikidata.org/entity/Q1128440
+DOID:3369	Ewing sarcoma	http://www.wikidata.org/entity/Q1138580
+DOID:12098	trigeminal neuralgia	http://www.wikidata.org/entity/Q1132120
+DOID:11330	erysipelas	http://www.wikidata.org/entity/Q207092
+DOID:11054	bladder cancer	http://www.wikidata.org/entity/Q504775
+DOID:3590	gestational trophoblastic neoplasm	http://www.wikidata.org/entity/Q881855
+DOID:4500	hypokalemia	http://www.wikidata.org/entity/Q794086
+DOID:11101	trench fever	http://www.wikidata.org/entity/Q393477
+DOID:10718	giardiasis	http://www.wikidata.org/entity/Q326071
+DOID:12385	shigellosis	http://www.wikidata.org/entity/Q327298
+DOID:3488	cellulitis	http://www.wikidata.org/entity/Q876887
+DOID:3044	food allergy	http://www.wikidata.org/entity/Q769815
+DOID:365	bladder disease	http://www.wikidata.org/entity/Q6066379
+DOID:9282	ocular hypertension	http://www.wikidata.org/entity/Q9294051
+DOID:3134	facial dermatosis	http://www.wikidata.org/entity/Q18555301
+DOID:2742	ear disease	http://www.wikidata.org/entity/Q5325633
+DOID:9428	intracranial hypertension	http://www.wikidata.org/entity/Q18558125
+DOID:3247	rhabdomyosarcoma	http://www.wikidata.org/entity/Q1898141
+DOID:11328	schizophreniform disorder	http://www.wikidata.org/entity/Q2157462
+DOID:655	inherited metabolic disorder	http://www.wikidata.org/entity/Q1758393
+DOID:14219	renal tubular acidosis	http://www.wikidata.org/entity/Q1516211
+DOID:718	autoimmune hemolytic anemia	http://www.wikidata.org/entity/Q28814
+DOID:0060224	atrial fibrillation	http://www.wikidata.org/entity/Q815819
+DOID:5418	schizoaffective disorder	http://www.wikidata.org/entity/Q834047
+DOID:2048	autoimmune hepatitis	http://www.wikidata.org/entity/Q786844
+DOID:14183	alcoholic neuropathy	http://www.wikidata.org/entity/Q4062508
+DOID:10460	nasopharyngitis	http://www.wikidata.org/entity/Q3936113
+DOID:0050195	Bolivian hemorrhagic fever	http://www.wikidata.org/entity/Q2700304
+DOID:12785	diabetic polyneuropathy	http://www.wikidata.org/entity/Q4160985
+DOID:0050194	Argentine hemorrhagic fever	http://www.wikidata.org/entity/Q2583514
+DOID:4603	epidermolytic hyperkeratosis	http://www.wikidata.org/entity/Q3801491
+DOID:12287	Crimean-Congo hemorrhagic fever	http://www.wikidata.org/entity/Q1077505
+DOID:1406	iritis	http://www.wikidata.org/entity/Q2346396
+DOID:3594	choriocarcinoma	http://www.wikidata.org/entity/Q1076481
+DOID:557	kidney disease	http://www.wikidata.org/entity/Q1054718
+DOID:0060185	Clostridioides difficile colitis	http://www.wikidata.org/entity/Q574905
+DOID:824	periodontitis	http://www.wikidata.org/entity/Q520127
+DOID:0080365	endometrial hyperplasia	http://www.wikidata.org/entity/Q686574
+DOID:1412	bacteriuria	http://www.wikidata.org/entity/Q632522
+DOID:9463	otitis externa	http://www.wikidata.org/entity/Q680873
+DOID:14256	adult-onset Still's disease	http://www.wikidata.org/entity/Q1187697
+DOID:3507	dermatofibrosarcoma protuberans	http://www.wikidata.org/entity/Q1200239
+DOID:2799	bronchiolitis obliterans	http://www.wikidata.org/entity/Q614750
+DOID:13431	bejel	http://www.wikidata.org/entity/Q682798
+DOID:3087	gingivitis	http://www.wikidata.org/entity/Q673083
+DOID:0050742	nicotine dependence	http://www.wikidata.org/entity/Q18553444
+DOID:0050743	mature T-cell and NK-cell lymphoma	http://www.wikidata.org/entity/Q18553445
+DOID:11030	corneal edema	http://www.wikidata.org/entity/Q18553993
+DOID:0080779	plasmablastic lymphoma	http://www.wikidata.org/entity/Q17635591
+DOID:10140	dry eye syndrome	http://www.wikidata.org/entity/Q18553790
+DOID:0060192	Crohn's colitis	http://www.wikidata.org/entity/Q18553712
+DOID:10808	gastric ulcer	http://www.wikidata.org/entity/Q4003020
+DOID:3055	paratyphoid fever	http://www.wikidata.org/entity/Q705906
+DOID:8881	rosacea	http://www.wikidata.org/entity/Q831530
+DOID:3385	bacterial vaginosis	http://www.wikidata.org/entity/Q804521
+DOID:9362	status asthmaticus	http://www.wikidata.org/entity/Q826759
+DOID:4677	keratitis	http://www.wikidata.org/entity/Q757838
+DOID:9643	Babesiosis	http://www.wikidata.org/entity/Q797668
+DOID:12995	conduct disorder	http://www.wikidata.org/entity/Q596474
+DOID:5113	nutritional deficiency disease	http://www.wikidata.org/entity/Q1890194
+DOID:934	viral infectious disease	http://www.wikidata.org/entity/Q1928978
+DOID:13976	peptic esophagitis	http://www.wikidata.org/entity/Q2184368
+DOID:9408	acute myocardial infarction	http://www.wikidata.org/entity/Q18558122
+DOID:1727	retinal vein occlusion	http://www.wikidata.org/entity/Q18554884
+DOID:2531	hematologic cancer	http://www.wikidata.org/entity/Q18975047
+DOID:0080639	bone sarcoma	http://www.wikidata.org/entity/Q56014469
+DOID:0111100	maturity-onset diabetes of the young type 2	http://www.wikidata.org/entity/Q32147145
+DOID:0080210	primary mediastinal B-cell lymphoma	http://www.wikidata.org/entity/Q53660452
+DOID:9181	amebiasis	http://www.wikidata.org/entity/Q949694
+DOID:417	autoimmune disease	http://www.wikidata.org/entity/Q8084905
+DOID:707	B-cell lymphoma	http://www.wikidata.org/entity/Q4833719
+DOID:1596	mental depression	http://www.wikidata.org/entity/Q4340209
+DOID:9423	blepharitis	http://www.wikidata.org/entity/Q845698
+DOID:0050242	primary amebic meningoencephalitis	http://www.wikidata.org/entity/Q922927
+DOID:1022	pinta disease	http://www.wikidata.org/entity/Q922029
+DOID:14095	boutonneuse fever	http://www.wikidata.org/entity/Q895297
+DOID:1287	cardiovascular disease	http://www.wikidata.org/entity/Q389735
+DOID:1673	pneumothorax	http://www.wikidata.org/entity/Q203601
+DOID:583	hemolytic anemia	http://www.wikidata.org/entity/Q1145668
+DOID:7475	diverticulitis	http://www.wikidata.org/entity/Q1066061
+DOID:1343	urethritis	http://www.wikidata.org/entity/Q1122485
+DOID:13543	hyperparathyroidism	http://www.wikidata.org/entity/Q1344835
+DOID:10075	diphyllobothriasis	http://www.wikidata.org/entity/Q1227160
+DOID:11199	hypoparathyroidism	http://www.wikidata.org/entity/Q1586088
+DOID:11165	common wart	http://www.wikidata.org/entity/Q18554021
+DOID:13035	louse-borne relapsing fever	http://www.wikidata.org/entity/Q18554418
+DOID:13036	tick-borne relapsing fever	http://www.wikidata.org/entity/Q18554419
+DOID:2755	Mycobacterium avium-intracellulare infection	http://www.wikidata.org/entity/Q6946984
+DOID:0080001	bone disease	http://www.wikidata.org/entity/Q4941552
+DOID:150	mental disorder	http://www.wikidata.org/entity/Q12135
+DOID:12386	balantidiasis	http://www.wikidata.org/entity/Q2447562
+DOID:6498	seborrheic keratosis	http://www.wikidata.org/entity/Q2166371
+DOID:0060180	colitis	http://www.wikidata.org/entity/Q2453464
+DOID:13774	Addison's disease	http://www.wikidata.org/entity/Q8282
+DOID:2355	anemia	http://www.wikidata.org/entity/Q5445
+DOID:12365	malaria	http://www.wikidata.org/entity/Q12156
+DOID:1733	cryptosporidiosis	http://www.wikidata.org/entity/Q1359898
+DOID:0050175	tick-borne encephalitis	http://www.wikidata.org/entity/Q326663
+DOID:4907	small intestine carcinoma	http://www.wikidata.org/entity/Q18556538
+DOID:4648	familial retinoblastoma	http://www.wikidata.org/entity/Q18556413
+DOID:2559	opiate dependence	http://www.wikidata.org/entity/Q18555117
+DOID:2481	infantile epileptic encephalopathy	http://www.wikidata.org/entity/Q18555095
+DOID:0060123	connective tissue benign neoplasm	http://www.wikidata.org/entity/Q18553680
+DOID:4086	testicular germ cell tumor non-seminomatous	http://www.wikidata.org/entity/Q18556194
+DOID:363	uterine cancer	http://www.wikidata.org/entity/Q1209744
+DOID:9253	gastrointestinal stromal tumor	http://www.wikidata.org/entity/Q1495661
+DOID:2234	focal epilepsy	http://www.wikidata.org/entity/Q7140388
+DOID:0060324	dental abscess	http://www.wikidata.org/entity/Q2710164
+DOID:1574	alcohol abuse	http://www.wikidata.org/entity/Q7331102
+DOID:0050922	gastrointestinal carcinoma	http://www.wikidata.org/entity/Q18553565
+DOID:2275	pharyngitis	http://www.wikidata.org/entity/Q2085267
+DOID:9113	granuloma inguinale	http://www.wikidata.org/entity/Q1416773
+DOID:6000	congestive heart failure	http://www.wikidata.org/entity/Q19000661
+DOID:3128	anal disease	http://www.wikidata.org/entity/Q56603543
+DOID:526	human immunodeficiency virus infectious disease	http://www.wikidata.org/entity/Q18556697
+DOID:12465	secondary hyperparathyroidism of renal origin	http://www.wikidata.org/entity/Q18554323
+DOID:3683	lung benign neoplasm	http://www.wikidata.org/entity/Q18556020
+DOID:1168	familial hyperlipidemia	http://www.wikidata.org/entity/Q18554145
+DOID:3165	skin benign neoplasm	http://www.wikidata.org/entity/Q18555315
+DOID:8337	appendicitis	http://www.wikidata.org/entity/Q121041
+DOID:12176	goiter	http://www.wikidata.org/entity/Q165135
+DOID:10314	endocarditis	http://www.wikidata.org/entity/Q82504
+DOID:2361	macrocytic anemia	http://www.wikidata.org/entity/Q2070695
+DOID:893	Wilson disease	http://www.wikidata.org/entity/Q117121
+DOID:874	bacterial pneumonia	http://www.wikidata.org/entity/Q3776920
+DOID:850	lung disease	http://www.wikidata.org/entity/Q3392853
+DOID:12466	secondary hyperparathyroidism	http://www.wikidata.org/entity/Q3622611
+DOID:9744	type-1 diabetes	http://www.wikidata.org/entity/Q124407
+DOID:216	dental caries	http://www.wikidata.org/entity/Q133772
+DOID:1205	allergy	http://www.wikidata.org/entity/Q42982
+DOID:8454	ariboflavinosis	http://www.wikidata.org/entity/Q4138764
+DOID:8566	herpes simplex	http://www.wikidata.org/entity/Q6473911
+DOID:4398	acropustulosis	http://www.wikidata.org/entity/Q4676432
+DOID:9965	toxoplasmosis	http://www.wikidata.org/entity/Q154878
+DOID:9471	meningitis	http://www.wikidata.org/entity/Q48143
+DOID:8704	genital herpes	http://www.wikidata.org/entity/Q7476596
+DOID:13382	megaloblastic anemia	http://www.wikidata.org/entity/Q10832211
+DOID:7427	anthrax	http://www.wikidata.org/entity/Q129104
+DOID:11077	brucellosis	http://www.wikidata.org/entity/Q156050
+DOID:0050432	Asperger syndrome	http://www.wikidata.org/entity/Q161790
+DOID:7998	hyperthyroidism	http://www.wikidata.org/entity/Q16499
+DOID:1307	dementia	http://www.wikidata.org/entity/Q83030
+DOID:1067	open-angle glaucoma	http://www.wikidata.org/entity/Q3108586
+DOID:0050134	dermatomycosis	http://www.wikidata.org/entity/Q3705876
+DOID:1563	dermatomycosis	http://www.wikidata.org/entity/Q3705876
+DOID:2768	transient tic disorder	http://www.wikidata.org/entity/Q2184304
+DOID:9675	pulmonary emphysema	http://www.wikidata.org/entity/Q188605
+DOID:848	arthritis	http://www.wikidata.org/entity/Q170990
+DOID:12554	hemolytic-uremic syndrome	http://www.wikidata.org/entity/Q162266
+DOID:5082	liver cirrhosis	http://www.wikidata.org/entity/Q147778
+DOID:9477	pulmonary embolism	http://www.wikidata.org/entity/Q220570
+DOID:10241	thalassemia	http://www.wikidata.org/entity/Q185137
+DOID:2123	tularemia	http://www.wikidata.org/entity/Q153861
+DOID:1793	pancreatic cancer	http://www.wikidata.org/entity/Q212961
+DOID:4947	cholangiocarcinoma	http://www.wikidata.org/entity/Q124292
+DOID:4029	gastritis	http://www.wikidata.org/entity/Q183130
+DOID:8283	peritonitis	http://www.wikidata.org/entity/Q223102
+DOID:10112	African trypanosomiasis	http://www.wikidata.org/entity/Q203133
+DOID:535	sleep disorder	http://www.wikidata.org/entity/Q177190
+DOID:9008	psoriatic arthritis	http://www.wikidata.org/entity/Q511097
+DOID:12662	paracoccidioidomycosis	http://www.wikidata.org/entity/Q247096
+DOID:1555	urticaria	http://www.wikidata.org/entity/Q187440
+DOID:2449	acromegaly	http://www.wikidata.org/entity/Q189580
+DOID:10283	prostate cancer	http://www.wikidata.org/entity/Q181257
+DOID:2349	arteriosclerosis	http://www.wikidata.org/entity/Q184559
+DOID:1184	nephrotic syndrome	http://www.wikidata.org/entity/Q504790
+DOID:9538	multiple myeloma	http://www.wikidata.org/entity/Q467635
+DOID:1508	candidiasis	http://www.wikidata.org/entity/Q273510
+DOID:13564	aspergillosis	http://www.wikidata.org/entity/Q259626
+DOID:1564	fungal infectious disease	http://www.wikidata.org/entity/Q464067
+DOID:10773	bubonic plague	http://www.wikidata.org/entity/Q217519
+DOID:8670	eating disorder	http://www.wikidata.org/entity/Q373822
+DOID:13444	glanders	http://www.wikidata.org/entity/Q327005
+DOID:9065	leishmaniasis	http://www.wikidata.org/entity/Q331283
+DOID:9478	postpartum depression	http://www.wikidata.org/entity/Q935129
+DOID:13450	coccidioidomycosis	http://www.wikidata.org/entity/Q868137
+DOID:9060	pityriasis versicolor	http://www.wikidata.org/entity/Q926462
+DOID:11132	prostatic hypertrophy	http://www.wikidata.org/entity/Q506659
+DOID:4450	renal cell carcinoma	http://www.wikidata.org/entity/Q1164529
+DOID:3526	cerebral infarction	http://www.wikidata.org/entity/Q1209150
+DOID:9266	cystinuria	http://www.wikidata.org/entity/Q1149046
+DOID:8741	seborrhoeic dermatitis	http://www.wikidata.org/entity/Q448310
+DOID:8295	scabies	http://www.wikidata.org/entity/Q167178
+DOID:9120	amyloidosis	http://www.wikidata.org/entity/Q816798
+DOID:3393	coronary artery disease	http://www.wikidata.org/entity/Q844935
+DOID:5041	esophageal cancer	http://www.wikidata.org/entity/Q372701
+DOID:12663	blastomycosis	http://www.wikidata.org/entity/Q627368
+DOID:2983	anuria	http://www.wikidata.org/entity/Q612681
+DOID:1731	histoplasmosis	http://www.wikidata.org/entity/Q627625
+DOID:8869	neuromyelitis optica	http://www.wikidata.org/entity/Q611458
+DOID:3159	photodermatitis	http://www.wikidata.org/entity/Q608085
+DOID:2921	glomerulonephritis	http://www.wikidata.org/entity/Q605006
+DOID:0111154	postural orthostatic tachycardia syndrome	http://www.wikidata.org/entity/Q620760
+DOID:11963	esophagitis	http://www.wikidata.org/entity/Q298230
+DOID:0050744	anaplastic large-cell lymphoma	http://www.wikidata.org/entity/Q486090
+DOID:0050425	restless legs syndrome	http://www.wikidata.org/entity/Q916280
+DOID:5052	melioidosis	http://www.wikidata.org/entity/Q963944
+DOID:11914	gastroparesis	http://www.wikidata.org/entity/Q943897
+DOID:1924	hypogonadism	http://www.wikidata.org/entity/Q938107
+DOID:0080600	COVID-19	http://www.wikidata.org/entity/Q84263196
+DOID:0060284	paroxysmal nocturnal hemoglobinuria	http://www.wikidata.org/entity/Q1479494
+DOID:3132	porphyria cutanea tarda	http://www.wikidata.org/entity/Q1479497
+DOID:14464	neuroleptic malignant syndrome	http://www.wikidata.org/entity/Q1424956
+DOID:9182	pemphigus	http://www.wikidata.org/entity/Q1483214
+DOID:10534	stomach cancer	http://www.wikidata.org/entity/Q189588
+DOID:11257	social anxiety disorder	http://www.wikidata.org/entity/Q281928
+DOID:14320	generalized anxiety disorder	http://www.wikidata.org/entity/Q845224
+DOID:3328	temporal lobe epilepsy	http://www.wikidata.org/entity/Q616667
+DOID:445	Bartter disease	http://www.wikidata.org/entity/Q790971
+DOID:3314	angiomyolipoma	http://www.wikidata.org/entity/Q539681
+DOID:18	urinary system disease	http://www.wikidata.org/entity/Q7900883
+DOID:0080179	haemophilus meningitis	http://www.wikidata.org/entity/Q17119372
+DOID:229	female reproductive system disease	http://www.wikidata.org/entity/Q5442760
+DOID:10970	spastic quadriplegia	http://www.wikidata.org/entity/Q3985306
+DOID:2741	bilirubin metabolic disorder	http://www.wikidata.org/entity/Q390475
+DOID:3890	acute intermittent porphyria	http://www.wikidata.org/entity/Q424247
+DOID:1019	osteomyelitis	http://www.wikidata.org/entity/Q938983
+DOID:3347	osteosarcoma	http://www.wikidata.org/entity/Q549534
+DOID:1825	childhood absence epilepsy	http://www.wikidata.org/entity/Q2894827
+DOID:12382	complex partial seizure	http://www.wikidata.org/entity/Q2895302
+DOID:2920	membranoproliferative glomerulonephritis	http://www.wikidata.org/entity/Q2299379
+DOID:288	adenomyosis	http://www.wikidata.org/entity/Q2012569
+DOID:263	kidney cancer	http://www.wikidata.org/entity/Q3242950
+DOID:2272	vulvovaginal candidiasis	http://www.wikidata.org/entity/Q977090
+DOID:10844	Japanese encephalitis	http://www.wikidata.org/entity/Q738292
+DOID:8619	hypersomnia	http://www.wikidata.org/entity/Q751641
+DOID:11396	pulmonary edema	http://www.wikidata.org/entity/Q857667
+DOID:1247	blood coagulation disease	http://www.wikidata.org/entity/Q890200
+DOID:9637	stomatitis	http://www.wikidata.org/entity/Q911386
+DOID:14264	benign neonatal seizures	http://www.wikidata.org/entity/Q15975183
+DOID:0080161	cutaneous candidiasis	http://www.wikidata.org/entity/Q11581119
+DOID:12403	tinea pedis	http://www.wikidata.org/entity/Q5609817
+DOID:1798	islet cell carcinoma	http://www.wikidata.org/entity/Q6084258
+DOID:409	liver disease	http://www.wikidata.org/entity/Q929737
+DOID:10300	Raynaud disease	http://www.wikidata.org/entity/Q1053824
+DOID:12236	primary biliary cirrhosis	http://www.wikidata.org/entity/Q1072420
+DOID:684	hepatocellular carcinoma	http://www.wikidata.org/entity/Q1148337
+DOID:302	substance abuse	http://www.wikidata.org/entity/Q3184856
+DOID:14262	oral candidiasis	http://www.wikidata.org/entity/Q2886899
+DOID:399	tuberculosis	http://www.wikidata.org/entity/Q12204
+DOID:574	peripheral neuropathy	http://www.wikidata.org/entity/Q945238
+DOID:870	peripheral neuropathy	http://www.wikidata.org/entity/Q945238
+DOID:8545	malignant hyperthermia	http://www.wikidata.org/entity/Q1585081
+DOID:0050459	hyperphosphatemia	http://www.wikidata.org/entity/Q1641062
+DOID:10824	malignant hypertension	http://www.wikidata.org/entity/Q1641132
+DOID:9976	heroin dependence	http://www.wikidata.org/entity/Q18558272
+DOID:13375	giant cell arteritis	http://www.wikidata.org/entity/Q707816
+DOID:13316	exocrine pancreatic insufficiency	http://www.wikidata.org/entity/Q641605
+DOID:5426	premature ovarian failure	http://www.wikidata.org/entity/Q647630
+DOID:12642	hiatus hernia	http://www.wikidata.org/entity/Q727153
+DOID:381	arthropathy	http://www.wikidata.org/entity/Q708176
+DOID:3963	thyroid carcinoma	http://www.wikidata.org/entity/Q18556131
+DOID:0050169	cutaneous lupus erythematosus	http://www.wikidata.org/entity/Q18553226
+DOID:10968	spastic monoplegia	http://www.wikidata.org/entity/Q18553982
+DOID:11832	visual epilepsy	http://www.wikidata.org/entity/Q18554191
+DOID:9111	cutaneous leishmaniasis	http://www.wikidata.org/entity/Q2590966
+DOID:7725	tonic–clonic seizure	http://www.wikidata.org/entity/Q1406803
+DOID:11206	opioid use disorder	http://www.wikidata.org/entity/Q1639178
+DOID:8941	seborrheic infantile dermatitis	http://www.wikidata.org/entity/Q1934513
+DOID:8805	unstable angina	http://www.wikidata.org/entity/Q2032041
+DOID:169	neuroendocrine tumor	http://www.wikidata.org/entity/Q1981276
+DOID:9406	hypopituitarism	http://www.wikidata.org/entity/Q922411
+DOID:813	septic arthritis	http://www.wikidata.org/entity/Q924421
+DOID:8691	mycosis fungoides	http://www.wikidata.org/entity/Q1891209
+DOID:12143	neurogenic bladder	http://www.wikidata.org/entity/Q2339038
+DOID:3721	plasmacytoma	http://www.wikidata.org/entity/Q2090167
+DOID:0060000	infective endocarditis	http://www.wikidata.org/entity/Q2450598
+DOID:3223	complex regional pain syndrome	http://www.wikidata.org/entity/Q1066311
+DOID:4724	cerebral edema	http://www.wikidata.org/entity/Q979168
+DOID:1824	status epilepticus	http://www.wikidata.org/entity/Q980709
+DOID:5502	lice infestation	http://www.wikidata.org/entity/Q1343674
+DOID:3892	insulinoma	http://www.wikidata.org/entity/Q1501239
+DOID:2951	motion sickness	http://www.wikidata.org/entity/Q309067
+DOID:0050865	tongue squamous cell carcinoma	http://www.wikidata.org/entity/Q28757362
+DOID:8506	bullous pemphigoid	http://www.wikidata.org/entity/Q1004647
+DOID:0080745	polymyositis	http://www.wikidata.org/entity/Q980926
+DOID:5577	gastrinoma	http://www.wikidata.org/entity/Q786852
+DOID:3405	histiocytosis	http://www.wikidata.org/entity/Q1411740
+DOID:1219	dicrocoeliasis	http://www.wikidata.org/entity/Q1210303
+DOID:456	ascariasis	http://www.wikidata.org/entity/Q842428
+DOID:676	juvenile rheumatoid arthritis	http://www.wikidata.org/entity/Q861224
+DOID:0050856	oppositional defiant disorder	http://www.wikidata.org/entity/Q1328833
+DOID:13580	cholestasis	http://www.wikidata.org/entity/Q1075923
+DOID:5844	myocardial infarction	http://www.wikidata.org/entity/Q12152
+DOID:4085	trophoblastic neoplasm	http://www.wikidata.org/entity/Q7845637
+DOID:9513	plasma cell leukemia	http://www.wikidata.org/entity/Q7201765
+DOID:0060182	microscopic colitis	http://www.wikidata.org/entity/Q2058941
+DOID:7457	enterobiasis	http://www.wikidata.org/entity/Q1992236
+DOID:1252	trichuriasis	http://www.wikidata.org/entity/Q2264130
+DOID:2781	rectosigmoid cancer	http://www.wikidata.org/entity/Q18555196
+DOID:1996	rectum adenocarcinoma	http://www.wikidata.org/entity/Q18554959
+DOID:1800	neuroendocrine carcinoma	http://www.wikidata.org/entity/Q18554913
+DOID:2378	relapsing-remitting multiple sclerosis	http://www.wikidata.org/entity/Q18555066
+DOID:10020	ampulla of Vater cancer	http://www.wikidata.org/entity/Q18553760
+DOID:4074	pancreatic adenocarcinoma	http://www.wikidata.org/entity/Q18556189
+DOID:234	colon adenocarcinoma	http://www.wikidata.org/entity/Q18555055
+DOID:14067	Plasmodium falciparum malaria	http://www.wikidata.org/entity/Q18554672
+DOID:2479	central nervous system origin vertigo	http://www.wikidata.org/entity/Q18555094
+DOID:3717	gastric adenocarcinoma	http://www.wikidata.org/entity/Q18556047
+DOID:219	colon cancer	http://www.wikidata.org/entity/Q18555025
+DOID:0050246	granulomatous amebic encephalitis	http://www.wikidata.org/entity/Q5596834
+DOID:12849	autism	http://www.wikidata.org/entity/Q38404
+DOID:9970	obesity	http://www.wikidata.org/entity/Q12174
+DOID:9306	mechanical strabismus	http://www.wikidata.org/entity/Q18558101
+DOID:0050783	secondary progressive multiple sclerosis	http://www.wikidata.org/entity/Q18965511
+DOID:3908	non-small-cell lung carcinoma	http://www.wikidata.org/entity/Q3658562
+DOID:6432	pulmonary hypertension	http://www.wikidata.org/entity/Q1128595
+DOID:8411	kidney angiomyolipoma	http://www.wikidata.org/entity/Q18557928
+DOID:4908	anal carcinoma	http://www.wikidata.org/entity/Q18556540
+DOID:8602	gum cancer	http://www.wikidata.org/entity/Q18557977
+DOID:4467	renal clear cell carcinoma	http://www.wikidata.org/entity/Q18556340
+DOID:8654	Hodgkin's lymphoma, mixed cellularity	http://www.wikidata.org/entity/Q18557991
+DOID:10887	lepromatous leprosy	http://www.wikidata.org/entity/Q6527832
+DOID:12841	ancylostomiasis	http://www.wikidata.org/entity/Q11679861
+DOID:8504	impetigo	http://www.wikidata.org/entity/Q28971
+DOID:10955	strongyloidiasis	http://www.wikidata.org/entity/Q2360849
+DOID:9563	bronchiectasis	http://www.wikidata.org/entity/Q32778
+DOID:0080162	lupus nephritis	http://www.wikidata.org/entity/Q1621830
+DOID:11934	head and neck cancer	http://www.wikidata.org/entity/Q1783924
+DOID:0080855	parkinsonian syndrome	http://www.wikidata.org/entity/Q1531991
+DOID:7033	anisakiasis	http://www.wikidata.org/entity/Q3091959
+DOID:2790	necatoriasis	http://www.wikidata.org/entity/Q4118581
+DOID:853	polymyalgia rheumatica	http://www.wikidata.org/entity/Q1752891
+DOID:8505	dermatitis herpetiformis	http://www.wikidata.org/entity/Q1151507
+DOID:11266	hemorrhagic fever with renal syndrome	http://www.wikidata.org/entity/Q9002005
+DOID:0050784	primary progressive multiple sclerosis	http://www.wikidata.org/entity/Q18553470
+DOID:3142	leg dermatosis	http://www.wikidata.org/entity/Q18555307
+DOID:3158	hand dermatosis	http://www.wikidata.org/entity/Q18555313
+DOID:3136	scalp dermatosis	http://www.wikidata.org/entity/Q18555302
+DOID:0050747	Waldenström macroglobulinemia	http://www.wikidata.org/entity/Q1778287
+DOID:0060901	Waldenström macroglobulinemia	http://www.wikidata.org/entity/Q1778287
+DOID:5556	testicular malignant germ cell cancer	http://www.wikidata.org/entity/Q18556864
+DOID:10286	prostate carcinoma	http://www.wikidata.org/entity/Q18553829
+DOID:2994	germ cell cancer	http://www.wikidata.org/entity/Q18555254
+DOID:5409	lung small cell carcinoma	http://www.wikidata.org/entity/Q19000544
+DOID:12129	bulimia nervosa	http://www.wikidata.org/entity/Q64513386
+DOID:9470	bacterial meningitis	http://www.wikidata.org/entity/Q3678510
+DOID:6925	Zenker's paralysis	http://www.wikidata.org/entity/Q3895159
+DOID:12837	thyroid crisis	http://www.wikidata.org/entity/Q4458080
+DOID:1319	brain cancer	http://www.wikidata.org/entity/Q9303627
+DOID:4483	rhinitis	http://www.wikidata.org/entity/Q114085
+DOID:10652	Alzheimer's disease	http://www.wikidata.org/entity/Q11081
+DOID:10914	amnesia	http://www.wikidata.org/entity/Q11072
+DOID:3234	central nervous system lymphoma	http://www.wikidata.org/entity/Q136312
+DOID:4235	spindle cell sarcoma	http://www.wikidata.org/entity/Q18975788
+DOID:8736	smallpox	http://www.wikidata.org/entity/Q12214
+DOID:1686	glaucoma	http://www.wikidata.org/entity/Q159701
+DOID:2297	leptospirosis	http://www.wikidata.org/entity/Q155098
+DOID:9351	diabetes	http://www.wikidata.org/entity/Q12206
+DOID:5223	infertility	http://www.wikidata.org/entity/Q179399
+DOID:1485	cystic fibrosis	http://www.wikidata.org/entity/Q178194
+DOID:10952	nephritis	http://www.wikidata.org/entity/Q401402
+DOID:3777	granuloma annulare	http://www.wikidata.org/entity/Q455085
+DOID:1883	hepatitis C	http://www.wikidata.org/entity/Q154869
+DOID:3078	anaplastic astrocytoma	http://www.wikidata.org/entity/Q486092
+DOID:0080743	transverse myelitis	http://www.wikidata.org/entity/Q202217
+DOID:1787	pericarditis	http://www.wikidata.org/entity/Q501561
+DOID:1969	cerebral palsy	http://www.wikidata.org/entity/Q210427
+DOID:8552	chronic myeloid leukemia	http://www.wikidata.org/entity/Q729735
+DOID:3875	thrombophlebitis	http://www.wikidata.org/entity/Q377978
+DOID:13241	Behçet's disease	http://www.wikidata.org/entity/Q911427
+DOID:11382	corneal neovascularization	http://www.wikidata.org/entity/Q1266519
+DOID:10937	impulse control disorder	http://www.wikidata.org/entity/Q1201835
+DOID:9212	pityriasis rubra pilaris	http://www.wikidata.org/entity/Q766856
+DOID:8947	diabetic retinopathy	http://www.wikidata.org/entity/Q631361
+DOID:1919	Lesch-Nyhan syndrome	http://www.wikidata.org/entity/Q727436
+DOID:3127	proctitis	http://www.wikidata.org/entity/Q941770
+DOID:5394	prolactinoma	http://www.wikidata.org/entity/Q954831
+DOID:10923	sickle-cell disease	http://www.wikidata.org/entity/Q185034
+DOID:12918	thromboangiitis obliterans	http://www.wikidata.org/entity/Q746001
+DOID:11634	myxedema	http://www.wikidata.org/entity/Q966229
+DOID:799	varicose veins	http://www.wikidata.org/entity/Q201180
+DOID:8544	chronic fatigue syndrome	http://www.wikidata.org/entity/Q209733
+DOID:6590	spondylitis	http://www.wikidata.org/entity/Q2165411
+DOID:4449	macular retinal edema	http://www.wikidata.org/entity/Q1813737
+DOID:12700	hyperprolactinemia	http://www.wikidata.org/entity/Q1433936
+DOID:1725	peritoneum cancer	http://www.wikidata.org/entity/Q18554882
+DOID:10873	Kuhnt-Junius degeneration	http://www.wikidata.org/entity/Q18553965
+DOID:1273	respiratory syncytial virus infectious disease	http://www.wikidata.org/entity/Q18554367
+DOID:2300	spondylolysis	http://www.wikidata.org/entity/Q2000072
+DOID:883	parasitic helminthiasis infectious disease	http://www.wikidata.org/entity/Q578994
+DOID:14654	prostatitis	http://www.wikidata.org/entity/Q372752
+DOID:1993	rectum cancer	http://www.wikidata.org/entity/Q2739660
+DOID:5614	eye disease	http://www.wikidata.org/entity/Q3041498
+DOID:4306	radiculopathy	http://www.wikidata.org/entity/Q175180
+DOID:8997	polycythemia vera	http://www.wikidata.org/entity/Q948318
+DOID:6196	reactive arthritis	http://www.wikidata.org/entity/Q1327700
+DOID:1312	focal segmental glomerulosclerosis	http://www.wikidata.org/entity/Q1435223
+DOID:8553	pyoderma gangrenosum	http://www.wikidata.org/entity/Q1526459
+DOID:0060040	pervasive developmental disorder	http://www.wikidata.org/entity/Q6691991
+DOID:14042	bipolar I disorder	http://www.wikidata.org/entity/Q4915474
+DOID:4971	myelofibrosis	http://www.wikidata.org/entity/Q1752571
+DOID:9146	visceral leishmaniasis	http://www.wikidata.org/entity/Q2046113
+DOID:10976	membranous glomerulonephritis	http://www.wikidata.org/entity/Q1713037
+DOID:2312	nocardiosis	http://www.wikidata.org/entity/Q1856914
+DOID:13934	facial paralysis	http://www.wikidata.org/entity/Q7562539
+DOID:5353	colonic disease	http://www.wikidata.org/entity/Q18556754
+DOID:1963	fallopian tube carcinoma	http://www.wikidata.org/entity/Q18554948
+DOID:4447	cystoid macular edema	http://www.wikidata.org/entity/Q18556331
+DOID:3904	bronchus carcinoma	http://www.wikidata.org/entity/Q18556109
+DOID:1897	sigmoid disease	http://www.wikidata.org/entity/Q18554932
+DOID:1588	thrombocytopenia	http://www.wikidata.org/entity/Q585285
+DOID:11983	Prader–Willi syndrome	http://www.wikidata.org/entity/Q594013
+DOID:10969	hemiplegia	http://www.wikidata.org/entity/Q304497
+DOID:4481	allergic rhinitis	http://www.wikidata.org/entity/Q272436
+DOID:10930	borderline personality disorder	http://www.wikidata.org/entity/Q208166
+DOID:14332	postencephalitic Parkinson disease	http://www.wikidata.org/entity/Q3508787
+DOID:906	peroxisomal disease	http://www.wikidata.org/entity/Q3281322
+DOID:7997	thyrotoxicosis	http://www.wikidata.org/entity/Q3991731
+DOID:2513	basal-cell carcinoma	http://www.wikidata.org/entity/Q809758
+DOID:12306	vitiligo	http://www.wikidata.org/entity/Q180152
+DOID:809	cocaine dependence	http://www.wikidata.org/entity/Q3743188
+DOID:9975	cocaine dependence	http://www.wikidata.org/entity/Q3743188
+DOID:2316	brain ischemia	http://www.wikidata.org/entity/Q4862390
+DOID:0060061	cutaneous T cell lymphoma	http://www.wikidata.org/entity/Q5196687
+DOID:3907	squamous cell carcinoma of the lung	http://www.wikidata.org/entity/Q5749020
+DOID:1023	borderline leprosy	http://www.wikidata.org/entity/Q4944687
+DOID:3082	interstitial lung disease	http://www.wikidata.org/entity/Q1153419
+DOID:8432	polycythemia	http://www.wikidata.org/entity/Q933716
+DOID:1781	thyroid cancer	http://www.wikidata.org/entity/Q826522
+DOID:3292	mpox	http://www.wikidata.org/entity/Q382370
+DOID:888	fasciolopsiasis	http://www.wikidata.org/entity/Q2140729
+DOID:1947	trichomoniasis	http://www.wikidata.org/entity/Q745865
+DOID:1749	squamous cell carcinoma	http://www.wikidata.org/entity/Q681817
+DOID:4730	vasomotor rhinitis	http://www.wikidata.org/entity/Q2403156
+DOID:9263	homocystinuria	http://www.wikidata.org/entity/Q994859
+DOID:11339	pneumocystosis	http://www.wikidata.org/entity/Q7205993
+DOID:1510	personality disorder	http://www.wikidata.org/entity/Q270673
+DOID:47	prostate disease	http://www.wikidata.org/entity/Q18556445
+DOID:8800	lung carcinoma in situ	http://www.wikidata.org/entity/Q18558018
+DOID:4876	trachea carcinoma	http://www.wikidata.org/entity/Q18556519
+DOID:2170	vaginitis	http://www.wikidata.org/entity/Q676191
+DOID:1926	Gaucher's disease	http://www.wikidata.org/entity/Q861645
+DOID:8866	actinic keratosis	http://www.wikidata.org/entity/Q422225
+DOID:9973	non-controlled substance abuse	http://www.wikidata.org/entity/Q182413
+DOID:3973	thyroid medullary carcinoma	http://www.wikidata.org/entity/Q3493538
+DOID:1407	anterior uveitis	http://www.wikidata.org/entity/Q3154357
+DOID:4960	myeloproliferative disorders	http://www.wikidata.org/entity/Q1898104
+DOID:74	hematopoietic system disease	http://www.wikidata.org/entity/Q1963588
+DOID:76	stomach disease	http://www.wikidata.org/entity/Q175827
+DOID:2224	essential thrombocytosis	http://www.wikidata.org/entity/Q1368780
+DOID:2228	thrombogavitis	http://www.wikidata.org/entity/Q1542410
+DOID:0050424	familial adenomatous polyposis	http://www.wikidata.org/entity/Q1369011
+DOID:9746	hemorrhoid	http://www.wikidata.org/entity/Q41478
+DOID:12241	beta thalassemia	http://www.wikidata.org/entity/Q3616632
+DOID:424	pulmonary immaturity	http://www.wikidata.org/entity/Q18556243
+DOID:12384	dysentery	http://www.wikidata.org/entity/Q129279
+DOID:13832	patent ductus arteriosus	http://www.wikidata.org/entity/Q2072063
+DOID:11400	pyelonephritis	http://www.wikidata.org/entity/Q506652
+DOID:1037	lymphoblastic leukemia	http://www.wikidata.org/entity/Q18553852
+DOID:6195	conjunctivitis	http://www.wikidata.org/entity/Q167844
+DOID:4159	skin cancer	http://www.wikidata.org/entity/Q192102
+DOID:8567	Hodgkin lymphoma	http://www.wikidata.org/entity/Q209369
+DOID:0050700	cardiomyopathy	http://www.wikidata.org/entity/Q847583
+DOID:0111157	Castleman's disease	http://www.wikidata.org/entity/Q1947302
+DOID:350	mastocytosis	http://www.wikidata.org/entity/Q112670
+DOID:2237	hepatitis	http://www.wikidata.org/entity/Q131742
+DOID:3401	syndrome of Inappropriate antidiuretic hormone secretion	http://www.wikidata.org/entity/Q959457
+DOID:12678	hypercalcemia	http://www.wikidata.org/entity/Q1474877
+DOID:854	collagen disease	http://www.wikidata.org/entity/Q1446169
+DOID:0060056	hypersensitivity	http://www.wikidata.org/entity/Q5958765
+DOID:1875	erectile dysfunction	http://www.wikidata.org/entity/Q184674
+DOID:3310	atopic dermatitis	http://www.wikidata.org/entity/Q268667
+DOID:0060329	ectopic pregnancy	http://www.wikidata.org/entity/Q207087
+DOID:2789	parasitic protozoa infectious disease	http://www.wikidata.org/entity/Q353172
+DOID:10939	antisocial personality disorder	http://www.wikidata.org/entity/Q118418
+DOID:12894	Sjögren's syndrome	http://www.wikidata.org/entity/Q335555
+DOID:5076	mixed glioma	http://www.wikidata.org/entity/Q18556612
+DOID:7007	childhood cerebral astrocytoma	http://www.wikidata.org/entity/Q18557440
+DOID:2556	relapsing polychondritis	http://www.wikidata.org/entity/Q187656
+DOID:1328	Rift Valley fever	http://www.wikidata.org/entity/Q326638
+DOID:13406	pulmonary sarcoidosis	http://www.wikidata.org/entity/Q18554512
+DOID:1558	angioedema	http://www.wikidata.org/entity/Q1129007
+DOID:1176	bronchospasm	http://www.wikidata.org/entity/Q279330
+DOID:4411	hepatitis E	http://www.wikidata.org/entity/Q326643
+DOID:869	cholesteatoma	http://www.wikidata.org/entity/Q558230
+DOID:2518	orchitis	http://www.wikidata.org/entity/Q540850
+DOID:1227	neutropenia	http://www.wikidata.org/entity/Q1435822
+DOID:12053	cryptococcosis	http://www.wikidata.org/entity/Q1470140
+DOID:13166	allergic bronchopulmonary aspergillosis	http://www.wikidata.org/entity/Q1430844
+DOID:8689	anorexia nervosa	http://www.wikidata.org/entity/Q131749
+DOID:643	progressive multifocal leukoencephalopathy	http://www.wikidata.org/entity/Q704930
+DOID:14484	sporotrichosis	http://www.wikidata.org/entity/Q767327
+DOID:9402	epididymitis	http://www.wikidata.org/entity/Q1344812
+DOID:1100	ovarian disease	http://www.wikidata.org/entity/Q7113244
+DOID:3482	plague	http://www.wikidata.org/entity/Q133780
+DOID:1579	respiratory disease	http://www.wikidata.org/entity/Q3286546
+DOID:3861	medullomyoblastoma	http://www.wikidata.org/entity/Q9304843
+DOID:2871	endometrial carcinoma	http://www.wikidata.org/entity/Q18555222
+DOID:235	colonic benign neoplasm	http://www.wikidata.org/entity/Q18555061
+DOID:2870	endometrial adenocarcinoma	http://www.wikidata.org/entity/Q18555221
+DOID:5520	head and neck squamous cell carcinoma	http://www.wikidata.org/entity/Q18348812
+DOID:12799	mucopolysaccharidosis II	http://www.wikidata.org/entity/Q1529983
+DOID:12798	mucopolysaccharidosis	http://www.wikidata.org/entity/Q1479681
+DOID:5648	choroid plexus carcinoma	http://www.wikidata.org/entity/Q1524940
+DOID:1003	pelvic inflammatory diseases	http://www.wikidata.org/entity/Q558070
+DOID:12028	Conn's syndrome	http://www.wikidata.org/entity/Q1939330
+DOID:10027	tabes dorsalis	http://www.wikidata.org/entity/Q2583311
+DOID:2515	meningococcal disease	http://www.wikidata.org/entity/Q890785
+DOID:12148	alveolar echinococcosis	http://www.wikidata.org/entity/Q448768
+DOID:13801	pharyngoconjunctival fever	http://www.wikidata.org/entity/Q18554607
+DOID:10843	Western equine encephalitis	http://www.wikidata.org/entity/Q18553953
+DOID:10841	Eastern equine encephalitis	http://www.wikidata.org/entity/Q18553951
+DOID:688	embryonal cancer	http://www.wikidata.org/entity/Q18557394
+DOID:3620	central nervous system cancer	http://www.wikidata.org/entity/Q18556002
+DOID:4001	ovarian carcinoma	http://www.wikidata.org/entity/Q18556145
+DOID:990	congenital heart block	http://www.wikidata.org/entity/Q18558252
+DOID:4961	bone marrow disease	http://www.wikidata.org/entity/Q18556569
+DOID:10787	premature menopause	http://www.wikidata.org/entity/Q22467774
+DOID:0050481	endemic typhus	http://www.wikidata.org/entity/Q3084532
+DOID:782	kidney infection	http://www.wikidata.org/entity/Q17651228
+DOID:12783	migraine without aura	http://www.wikidata.org/entity/Q3724157
+DOID:5672	large intestine cancer	http://www.wikidata.org/entity/Q12048781
+DOID:0050197	Brazilian hemorrhagic fever	http://www.wikidata.org/entity/Q4958833
+DOID:446	hyperaldosteronism	http://www.wikidata.org/entity/Q1640860
+DOID:0050061	Erysipelothrix rhusiopathiae infectious disease	http://www.wikidata.org/entity/Q1607983
+DOID:9663	aphthous stomatitis	http://www.wikidata.org/entity/Q189956
+DOID:9700	bacterial conjunctivitis	http://www.wikidata.org/entity/Q18558195
+DOID:783	end stage renal failure	http://www.wikidata.org/entity/Q19001011
+DOID:0050012	chikungunya	http://www.wikidata.org/entity/Q243257
+DOID:8456	choline deficiency disease	http://www.wikidata.org/entity/Q18557946
+DOID:4762	vasculogenic impotence	http://www.wikidata.org/entity/Q18556468
+DOID:14276	shoulder impingement syndrome	http://www.wikidata.org/entity/Q1660341
+DOID:1459	hypothyroidism	http://www.wikidata.org/entity/Q16501
+DOID:384	Wolff-Parkinson-White syndrome	http://www.wikidata.org/entity/Q925092
+DOID:3481	septicemic plague	http://www.wikidata.org/entity/Q3100117
+DOID:10242	ehrlichiosis	http://www.wikidata.org/entity/Q2845432
+DOID:1920	hyperuricemia	http://www.wikidata.org/entity/Q49970
+DOID:10921	Siberian tick typhus	http://www.wikidata.org/entity/Q7053975
+DOID:10493	adrenal cortical hypofunction	http://www.wikidata.org/entity/Q18553874
+DOID:2235	hypoprothrombinemia	http://www.wikidata.org/entity/Q3801629
+DOID:13238	Haverhill fever	http://www.wikidata.org/entity/Q3798547
+DOID:5077	subependymal giant cell astrocytoma	http://www.wikidata.org/entity/Q122222
+DOID:326	ischemia	http://www.wikidata.org/entity/Q188151
+DOID:7188	autoimmune thyroiditis	http://www.wikidata.org/entity/Q187842
+DOID:12211	filarial elephantiasis	http://www.wikidata.org/entity/Q192100
+DOID:2508	Takayasu's arteritis	http://www.wikidata.org/entity/Q432462
+DOID:13724	scurvy	http://www.wikidata.org/entity/Q163865
+DOID:285	hairy cell leukemia	http://www.wikidata.org/entity/Q201299
+DOID:6420	pulmonary valve stenosis	http://www.wikidata.org/entity/Q579527
+DOID:3083	chronic obstructive pulmonary disease	http://www.wikidata.org/entity/Q199804
+DOID:987	baldness	http://www.wikidata.org/entity/Q181391
+DOID:13868	hypoactive sexual desire disorder	http://www.wikidata.org/entity/Q303555
+DOID:0080169	tricuspid atresia	http://www.wikidata.org/entity/Q1283303
+DOID:1064	cystinosis	http://www.wikidata.org/entity/Q1149042
+DOID:0060903	thrombosis	http://www.wikidata.org/entity/Q261327
+DOID:3265	chronic granulomatous disease	http://www.wikidata.org/entity/Q2165663
+DOID:2352	HFE hereditary haemochromatosis	http://www.wikidata.org/entity/Q3144934
+DOID:2457	giant papillary conjunctivitis	http://www.wikidata.org/entity/Q2152449
+DOID:13533	osteopetrosis	http://www.wikidata.org/entity/Q1755568
+DOID:1682	congenital heart disease	http://www.wikidata.org/entity/Q939364
+DOID:2596	laryngeal cancer	http://www.wikidata.org/entity/Q852423
+DOID:6419	tetralogy of Fallot	http://www.wikidata.org/entity/Q1126831
+DOID:10825	essential hypertension	http://www.wikidata.org/entity/Q988405
+DOID:3443	mammary Paget's disease	http://www.wikidata.org/entity/Q1572384
+DOID:9955	hypoplastic left heart syndrome	http://www.wikidata.org/entity/Q1641399
+DOID:11723	Duchenne muscular dystrophy	http://www.wikidata.org/entity/Q1648484
+DOID:9903	meibomian cyst	http://www.wikidata.org/entity/Q769595
+DOID:10079	cysticercosis	http://www.wikidata.org/entity/Q246068
+DOID:11239	appendix cancer	http://www.wikidata.org/entity/Q4781026
+DOID:0060496	respiratory allergy	http://www.wikidata.org/entity/Q23037744
+DOID:2917	cryoglobulinemia	http://www.wikidata.org/entity/Q1790371
+DOID:10080	sparganosis	http://www.wikidata.org/entity/Q842169
+DOID:11547	corneal deposit	http://www.wikidata.org/entity/Q18554103
+DOID:12978	Plasmodium vivax malaria	http://www.wikidata.org/entity/Q18554412
+DOID:0050597	intestinal schistosomiasis	http://www.wikidata.org/entity/Q18553329
+DOID:2320	obstructive lung disease	http://www.wikidata.org/entity/Q3508797
+DOID:161	keratosis	http://www.wikidata.org/entity/Q3667186
+DOID:1702	ichthyosis vulgaris	http://www.wikidata.org/entity/Q3765145
+DOID:303	substance use disorder	http://www.wikidata.org/entity/Q7632070
+DOID:4889	scrofula	http://www.wikidata.org/entity/Q4678337
+DOID:2474	vernal conjunctivitis	http://www.wikidata.org/entity/Q3686833
+DOID:12140	Chagas disease	http://www.wikidata.org/entity/Q649558
+DOID:1496	echinococcosis	http://www.wikidata.org/entity/Q777087
+DOID:4138	bile duct disease	http://www.wikidata.org/entity/Q18556206
+DOID:9201	lichen planus	http://www.wikidata.org/entity/Q848371
+DOID:13768	opisthorchiasis	http://www.wikidata.org/entity/Q1048084
+DOID:13767	clonorchiasis	http://www.wikidata.org/entity/Q1102300
+DOID:12217	Lewy body dementia	http://www.wikidata.org/entity/Q1331905
+DOID:10127	cerebral artery occlusion	http://www.wikidata.org/entity/Q18553787
+DOID:14525	Reye syndrome	http://www.wikidata.org/entity/Q826103
+DOID:10772	thrombotic thrombocytopenic purpura	http://www.wikidata.org/entity/Q1426491
+DOID:11917	tinea cruris	http://www.wikidata.org/entity/Q1243807
+DOID:0080158	herpes simplex virus keratitis	http://www.wikidata.org/entity/Q1258984
+DOID:0050136	systemic mycosis	http://www.wikidata.org/entity/Q18553214
+DOID:0050289	fusariosis	http://www.wikidata.org/entity/Q18928476
+DOID:5411	lung oat cell carcinoma	http://www.wikidata.org/entity/Q18556782
+DOID:4359	amelanotic melanoma	http://www.wikidata.org/entity/Q4742183
+DOID:0080356	IgG4-related disease	http://www.wikidata.org/entity/Q11039483
+DOID:2957	pulmonary tuberculosis	http://www.wikidata.org/entity/Q13046587
+DOID:13146	esophageal candidiasis	http://www.wikidata.org/entity/Q5398631
+DOID:1591	renovascular hypertension	http://www.wikidata.org/entity/Q3296793
+DOID:3877	functional colonic disease	http://www.wikidata.org/entity/Q18556106
+DOID:1352	paranasal sinus disease	http://www.wikidata.org/entity/Q18554536
+DOID:4015	spindle cell carcinoma	http://www.wikidata.org/entity/Q7577496
+DOID:882	heterophyiasis	http://www.wikidata.org/entity/Q4137692
+DOID:11379	gnathomiasis	http://www.wikidata.org/entity/Q2665559
+DOID:10699	paragonimiasis	http://www.wikidata.org/entity/Q2528129
+DOID:1229	Alteración del estado mental	http://www.wikidata.org/entity/Q2606101
+DOID:13550	angle-closure glaucoma	http://www.wikidata.org/entity/Q18554545
+DOID:0080159	cryptococcal meningitis	http://www.wikidata.org/entity/Q18967011
+DOID:12052	cryptococcal meningitis	http://www.wikidata.org/entity/Q18967011
+DOID:10074	hymenolepiasis	http://www.wikidata.org/entity/Q12656487
+DOID:9861	miliary tuberculosis	http://www.wikidata.org/entity/Q17583
+DOID:0060859	salmonellosis	http://www.wikidata.org/entity/Q326648
+DOID:2773	contact dermatitis	http://www.wikidata.org/entity/Q783903
+DOID:10762	portal hypertension	http://www.wikidata.org/entity/Q124604
+DOID:2752	glycogen storage disease II	http://www.wikidata.org/entity/Q1365789
+DOID:12531	von Willebrand's disease	http://www.wikidata.org/entity/Q709360
+DOID:8478	actinomycosis	http://www.wikidata.org/entity/Q422268
+DOID:11254	Brill-Zinsser disease	http://www.wikidata.org/entity/Q253332
+DOID:12930	dilated cardiomyopathy	http://www.wikidata.org/entity/Q283656
+DOID:10603	glucose intolerance	http://www.wikidata.org/entity/Q2661464
+DOID:10123	Pigmentation disorder	http://www.wikidata.org/entity/Q7193408
+DOID:0050052	Rocky Mountain spotted fever	http://www.wikidata.org/entity/Q744387
+DOID:1082	dirofilariasis	http://www.wikidata.org/entity/Q443929
+DOID:332	amyotrophic lateral sclerosis	http://www.wikidata.org/entity/Q206901
+DOID:12926	hypodermyasis	http://www.wikidata.org/entity/Q1641318
+DOID:4535	hypotrichosis	http://www.wikidata.org/entity/Q1641483
+DOID:13413	hepatic encephalopathy	http://www.wikidata.org/entity/Q642548
+DOID:13034	relapsing fever borreliosis	http://www.wikidata.org/entity/Q690032
+DOID:2964	periarthritis	http://www.wikidata.org/entity/Q3899850
+DOID:3947	adrenal gland hyperfunction	http://www.wikidata.org/entity/Q4684750
+DOID:12179	tinea corporis	http://www.wikidata.org/entity/Q775927
+DOID:9455	lipid storage disease	http://www.wikidata.org/entity/Q3540902
+DOID:6050	esophageal disease	http://www.wikidata.org/entity/Q2912193
+DOID:10024	migraine with aura	http://www.wikidata.org/entity/Q18553762
+DOID:5525	anal squamous cell carcinoma	http://www.wikidata.org/entity/Q18556840
+DOID:3572	cerebral venous sinus thrombosis	http://www.wikidata.org/entity/Q1428132
+DOID:2747	glycogen storage disease	http://www.wikidata.org/entity/Q1421738
+DOID:12096	sodoku	http://www.wikidata.org/entity/Q1807401
+DOID:2730	epidermolysis bullosa	http://www.wikidata.org/entity/Q923020
+DOID:418	systemic scleroderma	http://www.wikidata.org/entity/Q5340515
+DOID:1562	chromoblastomycosis	http://www.wikidata.org/entity/Q2726043
+DOID:14087	medial epicondylitis	http://www.wikidata.org/entity/Q2457358
+DOID:403	mouth disease	http://www.wikidata.org/entity/Q2508462
+DOID:1081	mansonelliasis	http://www.wikidata.org/entity/Q4280605
+DOID:10211	cholelithiasis	http://www.wikidata.org/entity/Q7069348
+DOID:4464	Bellini duct carcinoma	http://www.wikidata.org/entity/Q4884045
+DOID:3388	periodontal disease	http://www.wikidata.org/entity/Q1059765
+DOID:11678	onchocerciasis	http://www.wikidata.org/entity/Q1137321
+DOID:1166	palindromic rheumatism	http://www.wikidata.org/entity/Q3495854
+DOID:4976	elephantiasis	http://www.wikidata.org/entity/Q16775468
+DOID:0060645	chronic recurrent multifocal osteomyelitis	http://www.wikidata.org/entity/Q2787011
+DOID:7474	malignant pleural mesothelioma	http://www.wikidata.org/entity/Q18557602
+DOID:2050	acute maxillary sinusitis	http://www.wikidata.org/entity/Q18554970
+DOID:2645	benign mesothelioma	http://www.wikidata.org/entity/Q18555143
+DOID:5157	benign pleural mesothelioma	http://www.wikidata.org/entity/Q18556653
+DOID:13371	scrub typhus	http://www.wikidata.org/entity/Q1194496
+DOID:0050480	epidemic typhus	http://www.wikidata.org/entity/Q1290616
+DOID:8867	molluscum contagiosum	http://www.wikidata.org/entity/Q659584
+DOID:8515	cor pulmonale	http://www.wikidata.org/entity/Q1131786
+DOID:65	connective tissue disease	http://www.wikidata.org/entity/Q1779300
+DOID:11847	coronary thrombosis	http://www.wikidata.org/entity/Q707774
+DOID:224	transient cerebral isolation	http://www.wikidata.org/entity/Q593958
+DOID:863	neurological disorder	http://www.wikidata.org/entity/Q3339235
+DOID:11168	anogenital venereal wart	http://www.wikidata.org/entity/Q208726
+DOID:12326	chronic pulmonary heart disease	http://www.wikidata.org/entity/Q18554296
+DOID:9584	Venezuelan equine encephalitis	http://www.wikidata.org/entity/Q18558169
+DOID:9446	cholangitis	http://www.wikidata.org/entity/Q603644
+DOID:4990	essential tremor	http://www.wikidata.org/entity/Q693519
+DOID:4079	heart valve disease	http://www.wikidata.org/entity/Q1130519
+DOID:9589	urethral calculus	http://www.wikidata.org/entity/Q3650514
+DOID:10892	hypospadias	http://www.wikidata.org/entity/Q1132108
+DOID:401	multidrug-resistant tuberculosis	http://www.wikidata.org/entity/Q866602
+DOID:529	blepharospasm	http://www.wikidata.org/entity/Q883863
+DOID:4919	renal pelvis carcinoma	http://www.wikidata.org/entity/Q1989240
+DOID:3146	lipid metabolism disorder	http://www.wikidata.org/entity/Q1476525
+DOID:1936	atherosclerosis	http://www.wikidata.org/entity/Q12252367
+DOID:3331	frontal lobe epilepsy	http://www.wikidata.org/entity/Q3204645
+DOID:201	connective tissue neoplasm	http://www.wikidata.org/entity/Q3542012
+DOID:4562	subacute bacterial endocarditis	http://www.wikidata.org/entity/Q2271749
+DOID:9790	toxocariasis	http://www.wikidata.org/entity/Q1345113
+DOID:10273	heart conduction disease	http://www.wikidata.org/entity/Q1361515
+DOID:3965	Merkel cell carcinoma	http://www.wikidata.org/entity/Q1711744
+DOID:8533	hypopharynx cancer	http://www.wikidata.org/entity/Q1393463
+DOID:2452	thrombophilia	http://www.wikidata.org/entity/Q1570013
+DOID:768	retinoblastoma	http://www.wikidata.org/entity/Q500695
+DOID:1561	cognitive disorder	http://www.wikidata.org/entity/Q3065932
+DOID:0080160	cytomegalovirus retinitis	http://www.wikidata.org/entity/Q4271835
+DOID:10176	neuroretinitis	http://www.wikidata.org/entity/Q18553800
+DOID:3277	thymus cancer	http://www.wikidata.org/entity/Q18555361
+DOID:8717	pressure ulcer	http://www.wikidata.org/entity/Q308978
+DOID:0050589	inflammatory bowel diseases	http://www.wikidata.org/entity/Q917447
+DOID:7894	acariasis	http://www.wikidata.org/entity/Q337998
+DOID:8725	vascular dementia	http://www.wikidata.org/entity/Q583908
+DOID:10573	osteomalacia	http://www.wikidata.org/entity/Q860395
+DOID:8858	tonsil cancer	http://www.wikidata.org/entity/Q9303622
+DOID:13948	bladder neck obstruction	http://www.wikidata.org/entity/Q7900619
+DOID:885	fasciolosis	http://www.wikidata.org/entity/Q6972442
+DOID:3107	toxascariasis	http://www.wikidata.org/entity/Q4459615
+DOID:4968	Nelson syndrome	http://www.wikidata.org/entity/Q2165266
+DOID:13810	familial hypercholesterolemia	http://www.wikidata.org/entity/Q2711291
+DOID:10784	Queensland tick typhus	http://www.wikidata.org/entity/Q6587253
+DOID:3953	adrenal gland cancer	http://www.wikidata.org/entity/Q18556128
+DOID:660	adrenal cortex cancer	http://www.wikidata.org/entity/Q18557308
+DOID:8557	oropharynx cancer	http://www.wikidata.org/entity/Q2031424
+DOID:4006	bladder urothelial carcinoma	http://www.wikidata.org/entity/Q18556148
+DOID:121	vaginal disease	http://www.wikidata.org/entity/Q18211693
+DOID:1171	hyperlipoproteinemia type V	http://www.wikidata.org/entity/Q18554151
+DOID:10124	corneal disease	http://www.wikidata.org/entity/Q10526382
+DOID:8649	tongue cancer	http://www.wikidata.org/entity/Q9303625
+DOID:12577	urethral obstruction	http://www.wikidata.org/entity/Q18554349
+DOID:4897	bile duct carcinoma	http://www.wikidata.org/entity/Q11611688
+DOID:8584	Burkitt lymphoma	http://www.wikidata.org/entity/Q1016605
+DOID:1340	pure red-cell aplasia	http://www.wikidata.org/entity/Q751631
+DOID:1342	congenital hypoplastic anemia	http://www.wikidata.org/entity/Q5160440
+DOID:3459	breast carcinoma	http://www.wikidata.org/entity/Q18555947
+DOID:308	early myoclonic encephalopathy	http://www.wikidata.org/entity/Q5326887
+DOID:1414	ovarian dysfunction	http://www.wikidata.org/entity/Q18554691
+DOID:11227	acute hemorrhagic conjunctivitis	http://www.wikidata.org/entity/Q11491562
+DOID:2529	splenic disease	http://www.wikidata.org/entity/Q7578540
+DOID:0050905	inflammatory myofibroblastic tumour	http://www.wikidata.org/entity/Q6030100
+DOID:2351	iron metabolism disease	http://www.wikidata.org/entity/Q6072985
+DOID:5998	microglandular adenosis	http://www.wikidata.org/entity/Q18557091
+DOID:4916	pituitary carcinoma	http://www.wikidata.org/entity/Q18556544
+DOID:6204	follicular adenoma	http://www.wikidata.org/entity/Q18557172
+DOID:585	nephrolithiasis	http://www.wikidata.org/entity/Q18557037
+DOID:3151	cutaneous squamous-cell carcinoma	http://www.wikidata.org/entity/Q5749018
+DOID:0050847	sleep apnea	http://www.wikidata.org/entity/Q213600
+DOID:9080	macroglobulinemia	http://www.wikidata.org/entity/Q4118092
+DOID:17	musculoskeletal disorder	http://www.wikidata.org/entity/Q4116663
+DOID:12119	hemosiderosis	http://www.wikidata.org/entity/Q2089854
+DOID:3049	Churg-Strauss syndrome	http://www.wikidata.org/entity/Q32811
+DOID:9847	peripheral vertigo	http://www.wikidata.org/entity/Q18558240
+DOID:12132	granulomatosis with polyangiitis	http://www.wikidata.org/entity/Q1161568
+DOID:593	agoraphobia	http://www.wikidata.org/entity/Q174589
+DOID:8463	corneal ulcer	http://www.wikidata.org/entity/Q1628473
+DOID:11823	hepatorenal syndrome	http://www.wikidata.org/entity/Q247131
+DOID:11506	suppurative otitis media	http://www.wikidata.org/entity/Q18554096
+DOID:2106	myotonia congenita	http://www.wikidata.org/entity/Q587420
+DOID:12698	gynecomastia	http://www.wikidata.org/entity/Q339221
+DOID:112	esophageal varix	http://www.wikidata.org/entity/Q298278
+DOID:3156	incontinentia pigmenti achromians	http://www.wikidata.org/entity/Q907921
+DOID:9854	lingual-facial-buccal dyskinesia	http://www.wikidata.org/entity/Q18558243
+DOID:0060770	dextro-transposition of the great arteries	http://www.wikidata.org/entity/Q3501283
+DOID:0080522	anaplastic thyroid cancer	http://www.wikidata.org/entity/Q3658382
+DOID:12401	intermittent explosive disorder	http://www.wikidata.org/entity/Q18671
+DOID:5425	ovarian hyperstimulation syndrome	http://www.wikidata.org/entity/Q1760461
+DOID:9368	keratoconjunctivitis	http://www.wikidata.org/entity/Q1623006
+DOID:3669	intermittent claudication	http://www.wikidata.org/entity/Q1097957
+DOID:8892	pityriasis rosea	http://www.wikidata.org/entity/Q1125160
+DOID:12987	agranulocytosis	http://www.wikidata.org/entity/Q396013
+DOID:3042	allergic contact dermatitis	http://www.wikidata.org/entity/Q12077704
+DOID:13548	secondary parkinsonism	http://www.wikidata.org/entity/Q18554542
+DOID:12750	cyclosporiasis	http://www.wikidata.org/entity/Q3008595
+DOID:2883	prostatic adenoma	http://www.wikidata.org/entity/Q32057211
+DOID:4989	pancreatitis	http://www.wikidata.org/entity/Q1527888
+DOID:0111151	Prinzmetal's angina	http://www.wikidata.org/entity/Q1469637
+DOID:11204	allergic conjunctivitis	http://www.wikidata.org/entity/Q471521
+DOID:13593	eclampsia	http://www.wikidata.org/entity/Q552348
+DOID:5295	intestinal disease	http://www.wikidata.org/entity/Q3055380
+DOID:9952	acute lymphocytic leukemia	http://www.wikidata.org/entity/Q180664
+DOID:8923	skin melanoma	http://www.wikidata.org/entity/Q18558032
+DOID:732	urethral disease	http://www.wikidata.org/entity/Q18557550
+DOID:9256	colorectal cancer	http://www.wikidata.org/entity/Q188874
+DOID:1217	fascioloidiasis	http://www.wikidata.org/entity/Q11996271
+DOID:0050771	phaeochromocytoma	http://www.wikidata.org/entity/Q536269
+DOID:5485	synovial sarcoma	http://www.wikidata.org/entity/Q2619315
+DOID:12716	infant respiratory distress syndrome	http://www.wikidata.org/entity/Q754348
+DOID:0050811	congenital adrenal hyperplasia	http://www.wikidata.org/entity/Q366868
+DOID:11713	diabetic angiopathy	http://www.wikidata.org/entity/Q489997
+DOID:14418	dracunculiasis	http://www.wikidata.org/entity/Q388646
+DOID:865	vasculitis	http://www.wikidata.org/entity/Q644318
+DOID:936	encephalopathy	http://www.wikidata.org/entity/Q576349
+DOID:5165	uterine sarcoma	http://www.wikidata.org/entity/Q5965479
+DOID:11120	psychologic dyspareunia	http://www.wikidata.org/entity/Q18554007
+DOID:5289	uterus leiomyosarcoma	http://www.wikidata.org/entity/Q18556721
+DOID:9784	trichinosis	http://www.wikidata.org/entity/Q495146
+DOID:0090016	chromosome 5q deletion syndrome	http://www.wikidata.org/entity/Q245455
+DOID:3068	glioblastoma	http://www.wikidata.org/entity/Q282142
+DOID:420	hypertrichosis	http://www.wikidata.org/entity/Q595010
+DOID:2843	long QT syndrome	http://www.wikidata.org/entity/Q653924
+DOID:3355	fibrosarcoma	http://www.wikidata.org/entity/Q1362453
+DOID:0080188	chronic myelomonocytic leukemia	http://www.wikidata.org/entity/Q1088072
+DOID:1210	optic neuritis	http://www.wikidata.org/entity/Q972514
+DOID:8913	dermatophytosis	http://www.wikidata.org/entity/Q1909343
+DOID:1876	sexual dysfunction	http://www.wikidata.org/entity/Q1137463
+DOID:6725	spinal stenosis	http://www.wikidata.org/entity/Q1478321
+DOID:14557	primary pulmonary hypertension	http://www.wikidata.org/entity/Q18554794
+DOID:11603	infant gynecomastia	http://www.wikidata.org/entity/Q18554119
+DOID:11608	fungal meningitis	http://www.wikidata.org/entity/Q5509169
+DOID:4051	alveolar rhabdomyosarcoma	http://www.wikidata.org/entity/Q4737958
+DOID:10113	trypanosomiasis	http://www.wikidata.org/entity/Q2443552
+DOID:14069	cerebral malaria	http://www.wikidata.org/entity/Q2822915
+DOID:345	uterine disease	http://www.wikidata.org/entity/Q18555940
+DOID:8549	chronic ulcer of skin	http://www.wikidata.org/entity/Q18557969
+DOID:5675	cribriform carcinoma	http://www.wikidata.org/entity/Q18556933
+DOID:10783	methemoglobinemia	http://www.wikidata.org/entity/Q748442
+DOID:2051	maxillary sinusitis	http://www.wikidata.org/entity/Q13668767
+DOID:8645	subacute delirium	http://www.wikidata.org/entity/Q18557988
+DOID:0050727	tyrosinemia type III	http://www.wikidata.org/entity/Q7861692
+DOID:884	metagonimiasis	http://www.wikidata.org/entity/Q11542703
+DOID:9192	dyskinesia of esophagus	http://www.wikidata.org/entity/Q472052
+DOID:2113	coccidiosis	http://www.wikidata.org/entity/Q487837
+DOID:9699	ophthalmia neonatorum	http://www.wikidata.org/entity/Q18558194
+DOID:10690	mastitis	http://www.wikidata.org/entity/Q835061
+DOID:3119	gastrointestinal system cancer	http://www.wikidata.org/entity/Q5526839
+DOID:866	vein disorder	http://www.wikidata.org/entity/Q7918687
+DOID:864	phlebitis	http://www.wikidata.org/entity/Q1423167
+DOID:14499	Fabry disease	http://www.wikidata.org/entity/Q615645
+DOID:12377	spinal muscular atrophy	http://www.wikidata.org/entity/Q580290
+DOID:543	dystonia	http://www.wikidata.org/entity/Q906492
+DOID:139	squamous cell papilloma	http://www.wikidata.org/entity/Q7581954
+DOID:48	male reproductive system disease	http://www.wikidata.org/entity/Q6742925
+DOID:13068	renal osteodystrophy	http://www.wikidata.org/entity/Q822598
+DOID:0080750	erythema nodosum	http://www.wikidata.org/entity/Q1363738
+DOID:4131	erythrasma	http://www.wikidata.org/entity/Q939261
+DOID:2987	familial Mediterranean fever	http://www.wikidata.org/entity/Q1144618
+DOID:12802	mucopolysaccharidosis I	http://www.wikidata.org/entity/Q1906054
+DOID:12134	hemophilia A	http://www.wikidata.org/entity/Q2092064
+DOID:5812	bare lymphocyte syndrome 2	http://www.wikidata.org/entity/Q16838027
+DOID:2215	factor VII deficiency	http://www.wikidata.org/entity/Q18555032
+DOID:5396	prolactin producing pituitary tumor	http://www.wikidata.org/entity/Q18556776
+DOID:4329	Erdheim-Chester disease	http://www.wikidata.org/entity/Q1349259
+DOID:13276	Mycoplasma pneumonia	http://www.wikidata.org/entity/Q10591185
+DOID:1234	gender dysphoria	http://www.wikidata.org/entity/Q1049021
+DOID:60009	benign neoplasm of pituitary gland	http://www.wikidata.org/entity/Q55789622
+DOID:1921	Klinefelter's syndrome	http://www.wikidata.org/entity/Q207133
+DOID:3309	neurodermatitis	http://www.wikidata.org/entity/Q1150378
+DOID:9974	substance dependence	http://www.wikidata.org/entity/Q3378593
+DOID:2519	testicular disease	http://www.wikidata.org/entity/Q7705854
+DOID:0090078	hypogonadotropic hypogonadism 7 with or without anosmia	http://www.wikidata.org/entity/Q30989134
+DOID:13922	eosinophilic esophagitis	http://www.wikidata.org/entity/Q2057356
+DOID:4752	multiple system atrophy	http://www.wikidata.org/entity/Q1541975
+DOID:0060041	autism spectrum disorder	http://www.wikidata.org/entity/Q1436063
+DOID:1289	neurodegeneration	http://www.wikidata.org/entity/Q1755122
+DOID:13042	persistent fetal circulation syndrome	http://www.wikidata.org/entity/Q7170410
+DOID:3587	pancreatic ductal carcinoma	http://www.wikidata.org/entity/Q8263002
+DOID:5160	arteriosclerosis obliterans	http://www.wikidata.org/entity/Q4797546
+DOID:127	leiomyoma	http://www.wikidata.org/entity/Q4667534
+DOID:3222	causalgia	http://www.wikidata.org/entity/Q18555343
+DOID:0111412	exudative vitreoretinopathy 1	http://www.wikidata.org/entity/Q55345659
+DOID:0111349	desmoid disease, hereditary	http://www.wikidata.org/entity/Q55950219
+DOID:5612	spinal cancer	http://www.wikidata.org/entity/Q18556900
+DOID:9988	tertiary neurosyphilis	http://www.wikidata.org/entity/Q18558279
+DOID:2485	phosphorus metabolism disease	http://www.wikidata.org/entity/Q18555096
+DOID:12895	keratoconjunctivitis sicca	http://www.wikidata.org/entity/Q1162694
+DOID:14452	hypokalemic periodic paralysis	http://www.wikidata.org/entity/Q622828
+DOID:11612	polycystic ovary syndrome	http://www.wikidata.org/entity/Q500816
+DOID:14451	hyperkalemic periodic paralysis	http://www.wikidata.org/entity/Q3269843
+DOID:3946	pituitary-dependent Cushing's disease	http://www.wikidata.org/entity/Q11312280
+DOID:974	upper respiratory tract disease	http://www.wikidata.org/entity/Q18558209
+DOID:13709	premature ejaculation	http://www.wikidata.org/entity/Q319312
+DOID:3070	glioma	http://www.wikidata.org/entity/Q1365309
+DOID:4223	pyoderma	http://www.wikidata.org/entity/Q2119633
+DOID:0080632	Fazio-Londe disease	http://www.wikidata.org/entity/Q1399155
+DOID:8970	subacute sclerosing panencephalitis	http://www.wikidata.org/entity/Q2475919
+DOID:0080795	acute basophilic leukemia	http://www.wikidata.org/entity/Q4677911
+DOID:1036	chronic leukemia	http://www.wikidata.org/entity/Q5113979
+DOID:14203	childhood type dermatomyositis	http://www.wikidata.org/entity/Q6318950
+DOID:11394	acute respiratory distress syndrome	http://www.wikidata.org/entity/Q344873
+DOID:2986	IgA glomerulonephritis	http://www.wikidata.org/entity/Q1146454
+DOID:10966	lipoid nephrosis	http://www.wikidata.org/entity/Q1323002
+DOID:0050836	focal dystonia	http://www.wikidata.org/entity/Q1428695
+DOID:100	intestinal infectious disease	http://www.wikidata.org/entity/Q2970970
+DOID:8508	subcorneal pustular dermatosis	http://www.wikidata.org/entity/Q7630974
+DOID:2731	vesiculobullous skin disease	http://www.wikidata.org/entity/Q7923229
+DOID:4029	chronic gastritis	http://www.wikidata.org/entity/Q16958168
+DOID:576	proteinuria	http://www.wikidata.org/entity/Q570197
+DOID:10584	retinitis pigmentosa	http://www.wikidata.org/entity/Q847057
+DOID:0050925	small intestine carcinoid neuroendocrine tumor	http://www.wikidata.org/entity/Q18553568
+DOID:2456	blepharoconjunctivitis	http://www.wikidata.org/entity/Q18555084

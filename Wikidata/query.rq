@@ -1,0 +1,46 @@
+# Diseases query
+SELECT DISTINCT ?DiseaseOntologyID ?Name (?disease AS ?WikidataURL) WHERE {
+  ?disease wdt:P2176 ?drug;
+    wdt:P699 ?DiseaseOntologyID;
+    rdfs:label ?Name.
+  FILTER((LANG(?Name)) = "en")
+
+# Drugs query
+SELECT DISTINCT ?DrugBankID ?Name ?SMILES ?InChI (GROUP_CONCAT(DISTINCT ?altLabel; SEPARATOR = " ; ") AS ?GenericNames) ?WikidataURL WHERE {
+  ?disease wdt:P2176 ?drug.
+  ?drug rdfs:label ?Name;
+    wdt:P715 ?DrugBankID.
+  FILTER((LANG(?Name)) = "en")
+  OPTIONAL {
+    ?drug skos:altLabel ?altLabel;
+      wdt:P233 ?SMILES;
+      wdt:P234 ?InChI.
+    FILTER((LANG(?altLabel)) = "en")
+  }
+}
+GROUP BY ?DrugBankID ?Name ?SMILES ?InChI (?drug AS ?WikidataURL)
+
+# Relationships query
+SELECT DISTINCT ?Entity1_id ?Entity1_name ("Chemical" AS ?Entity1_type) ?Entity2_id ?Entity2_name ?Entity2_type ?Category WHERE {
+  ?disease wdt:P2176 ?drug1;
+    wdt:P699 ?diseaseID;
+    rdfs:label ?diseaseName.
+  ?drug1 wdt:P715 ?Entity1_id;
+    rdfs:label ?Entity1_name.
+  OPTIONAL {
+    ?disease2 wdt:P2176 ?drug2.
+    ?drug1 wdt:P769 ?drug2.
+    ?drug2 wdt:P715 ?drug2ID;
+      rdfs:label ?drug2Name.
+    FILTER((LANG(?drug2Name)) = "en")
+  }
+  FILTER(((LANG(?Entity1_name)) = "en") && ((LANG(?diseaseName)) = "en"))
+  VALUES ?toggle {
+    "true"^^xsd:boolean
+    "false"^^xsd:boolean
+  }
+  BIND(IF(?toggle, ?diseaseID, ?drug2ID) AS ?Entity2_id)
+  BIND(IF(?toggle, ?diseaseName, ?drug2Name) AS ?Entity2_name)
+  BIND(IF(?toggle, "Disease", "Chemical") AS ?Entity2_type)
+  BIND(IF(?toggle, "treats", "interacts with") AS ?Category)
+}
